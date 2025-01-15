@@ -64,11 +64,11 @@
 
 ### 图书列表
 
-![Book List](D:\github_andorid\course_design_ibrary-system\ScreenImage\图书列表.png)
+![Book List](https://github.com/kaiyaolnayyds/course_design_ibrary-system/blob/main/ScreenImage/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.png)
 
 ### 借阅信息
 
-![Borrow Info](D:\github_andorid\course_design_ibrary-system\ScreenImage\借阅信息.png)
+![Borrow Info](https://github.com/kaiyaolnayyds/course_design_ibrary-system/blob/main/ScreenImage/%E5%80%9F%E9%98%85%E4%BF%A1%E6%81%AF.png)
 
 ## 未来扩展
 
