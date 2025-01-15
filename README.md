@@ -60,7 +60,7 @@
 
 ### 登录页面
 
-![Login Page](D:\github_andorid\course_design_ibrary-system\ScreenImage\登录.png)
+![Login Page](https://github.com/kaiyaolnayyds/course_design_ibrary-system/blob/main/ScreenImage/%E7%99%BB%E5%BD%95.png)
 
 ### 图书列表
 
