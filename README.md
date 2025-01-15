@@ -31,45 +31,44 @@
 #### 安装与使用
 
 - ### 环境要求
-  
+
 - Android Studio：最新稳定版本
-  
+
 - JDK 版本：8 或更高
-  
+
 - Gradle：兼容 Android 项目的版本
-  
 
 ### 使用步骤
 
 1. 克隆项目到本地：
-  
-  ```bash
-  git clone https://github.com/kaiyaolnayyds/course_design_ibrary-system.git
-  ```
-  
+   
+   ```bash
+   git clone https://github.com/kaiyaolnayyds/course_design_ibrary-system.git
+   ```
+
 2. 使用 Android Studio 打开项目。
-  
+
 3. 同步项目以安装所需依赖：
-  
-  - 确保 Gradle 文件已成功同步。
+   
+   - 确保 Gradle 文件已成功同步。
+
 4. 连接 Android 模拟器或实际设备。
-  
+
 5. 编译并运行应用。
-  
 
 ## 使用截图（部分）
 
 ### 登录页面
 
-![Login Page](file://C:\Users\TIMI\Pictures\逍遥安卓照片\Screenshots\Screenshot_20250115-172621.png?msec=1736937407100)
+![Login Page](D:\github_andorid\course_design_ibrary-system\ScreenImage\登录.png)
 
 ### 图书列表
 
-![Book List](file://C:\Users\TIMI\Pictures\逍遥安卓照片\Screenshots\Screenshot_20250115-172734.png?msec=1736937407106)
+![Book List](D:\github_andorid\course_design_ibrary-system\ScreenImage\图书列表.png)
 
 ### 借阅信息
 
-![Borrow Info](file://C:\Users\TIMI\Pictures\逍遥安卓照片\Screenshots\Screenshot_20250115-173404.png?msec=1736937407100)
+![Borrow Info](D:\github_andorid\course_design_ibrary-system\ScreenImage\借阅信息.png)
 
 ## 未来扩展
 
